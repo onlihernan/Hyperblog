@@ -1,0 +1,54 @@
+[33mcommit 790a19e9db2f580c9c957a57b9f457142a44967e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Mon Jan 10 22:29:02 2022 -0300
+
+    reemplazo de una version por otra de la historia
+
+ historia.txt | 5 [32m++[m[31m---[m
+ 1 file changed, 2 insertions(+), 3 deletions(-)
+
+[33mcommit 0fd2c8788af723e91584f076ebb938d02cf7f790[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Mon Jan 10 22:22:36 2022 -0300
+
+    cambio de maestría
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit 1ef8c992beb91c6894e9d61878e38ada917b2eeb[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Mon Jan 10 22:21:46 2022 -0300
+
+    cambio de vida
+
+ historia.txt | 2 [32m+[m[31m-[m
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+[33mcommit b6c81a05d18db88dfb94280381401bb3d55387db[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Mon Jan 10 22:18:47 2022 -0300
+
+    Arranco mi proyecto real con html y css
+
+ blogpost.html   | 10 [32m++++++++++[m
+ css/estilos.css |  5 [32m+++++[m
+ 2 files changed, 15 insertions(+)
+
+[33mcommit ae2367305e139981c6d041dbade8427e5d87c7cd[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Tue Jan 4 17:05:28 2022 -0300
+
+    cambios al archivo de historia para reflejar la edad correcta
+
+ historia.txt | 3 [32m++[m[31m-[m
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+[33mcommit b65f48420f8b7732928f63e11fefbdbb304ad532[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Tue Jan 4 17:01:40 2022 -0300
+
+    Este es el primer commit de este archivo
+
+ historia.txt | 5 [32m+++++[m
+ 1 file changed, 5 insertions(+)
