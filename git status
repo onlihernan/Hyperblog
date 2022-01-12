@@ -1,4 +1,15 @@
-[33mcommit 790a19e9db2f580c9c957a57b9f457142a44967e[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[33mcommit 735e3776ad5aae414bdf49de2a4a4630c2d71c66[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Hernan <onlihernan@gmail.com>
+Date:   Wed Jan 12 00:38:38 2022 -0300
+
+    commit al master del blogpost de su version mas reciente
+
+ a               | 54 [32m++++++++++++++++++++++++++++++++++++++++++++++++++++++[m
+ blogpost.html   |  8 [32m++++++[m[31m--[m
+ css/estilos.css | 15 [32m++++++++++++++[m[31m-[m
+ 3 files changed, 74 insertions(+), 3 deletions(-)
+
+[33mcommit 790a19e9db2f580c9c957a57b9f457142a44967e[m
 Author: Hernan <onlihernan@gmail.com>
 Date:   Mon Jan 10 22:29:02 2022 -0300
 
